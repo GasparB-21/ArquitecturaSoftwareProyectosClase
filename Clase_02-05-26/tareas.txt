@@ -1,1 +1,1 @@
-[Completada] Hacer script Todo App
+[Completada] Entender Git

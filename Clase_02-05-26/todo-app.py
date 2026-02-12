@@ -60,7 +60,7 @@ def delete_tarea(tarea_file):
 
 #Función principal para ejecutar la app
 def main():
-    tarea_file = "./Clase_05-02-26/tareas.txt"
+    tarea_file = "./tareas.txt"
     while True:
         menu()
         choice = input("Ingrese el número de la función que desea ejecutar: ")
